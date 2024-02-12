@@ -1,0 +1,68 @@
+{
+  "skills": [
+    {
+      "id": "1",
+      "src": "./img/feather-pen-1.png",
+      "title": "Front-End",
+      "description": "As a Front - end developer , I possess expertise in HTML , JavaScript , CSS , Bootstrap ,  React , Angular and other frameworks .  With a passion for web design and development , I build  outstanding and user-centric products . "
+    },
+    {
+      "id": "2",
+      "src": "./img/feather-pen-1.png",
+      "title": "Back-End",
+      "description": "As a Back-end developer,I have knowledge in Java,Python,Php and frameworks.With strong programming skills and extensive knowledge of programming languages,I'm able to create powerfuland secure applications for users ."
+    },
+    {
+      "id": "4",
+      "src": "./img/feather-pen-1.png",
+      "title": "Database",
+      "description": "As a Data Engineer I have knowledge in Databases such as SQL, MYSQL, also in Python. I have the ability to do Data Analysis and Visualization. I also guarante Data Security and Integrity.I am able to work with a variety of technologies "
+    }
+  ],
+  "portfolio": [
+    {
+      "id": "1",
+      "src": "./img/MovieappWebsite.png",
+      "title": "Movie WebApp",
+      "description": "This is a movie app, built in Angular and PHP."
+    },
+    {
+      "id": "2",
+      "src": "./img/personalwebsite.jpeg",
+      "title": "Personal Website",
+      "description": "This is my personal website , built with React"
+    },
+    {
+      "id": "3",
+      "src": "./img/Clinic.png",
+      "title": "Clinic website",
+      "description": "This is a clinic website , built with Javascript"
+    }
+  ],
+  "testimonial": [
+    {
+      "id": "1",
+      "count": "5",
+      "src": "./img/avatar-image.png",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
+      "author_name": "Dianne Russel",
+      "author_designation": "Starbucks"
+    },
+    {
+      "id": "2",
+      "count": "5",
+      "src": "./img/avatar-image-1.png",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
+      "author_name": "Kristin Watson",
+      "author_designation": "Louis Vuitton"
+    },
+    {
+      "id": "3",
+      "count": "5",
+      "src": "./img/avatar-image-2.png",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
+      "author_name": "Kathryn Murphy",
+      "author_designation": "McDonald's"
+    }
+  ]
+}
